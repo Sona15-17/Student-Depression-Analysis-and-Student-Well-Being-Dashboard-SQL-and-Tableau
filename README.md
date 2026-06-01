@@ -95,18 +95,21 @@ This section explains the analysis performed using SQL queries before moving to 
 -Used SQL GROUP BY and aggregation queries to study frequency and count patterns across multiple student well-being factors
 
 
-## Dashboard Snapshot start from here###############
+## Dashboard Snapshot 
 
 ![Student Depression Dashboard](https://github.com/user-attachments/assets/f674d7fe-7443-4fd7-ae9b-e85008a5e23c)
 
+The Student Count Analysis Dashboard was developed in Tableau Desktop to analyze student well-being and depression-related factors using visual analysis. The dashboard combines multiple visualizations, including Academic Pressure, Financial Stress, Study Satisfaction, Sleep Duration, and Study Hours, to study student count distribution across different categories. Data preparation, cleaning, and exploratory analysis were performed in SQL Server before connecting the dataset to Tableau. The integrated dashboard enables comparative analysis and helps visualize academic, financial, and lifestyle-related patterns associated with student well-being within a single interactive view.
+
 ## Key Insights
 
-- Students experiencing higher academic pressure show higher levels of depression.
-- Lower sleep duration is associated with increased depression rates.
-- Financial stress significantly impacts student mental health.
-- Students with lower study satisfaction tend to report higher depression levels.
-- Certain age groups show higher vulnerability to depression.
-- Interactive dashboard helps identify mental health trends quickly and effectively.
+- Student count distribution varies across different Academic Pressure levels.
+- Financial Stress shows varying student count patterns across categories.
+Study Satisfaction levels differ among students and indicate variation in academic experience.
+Sleep Duration distribution highlights differences in student lifestyle patterns.
+Study Hours vary across students and reflect different study behavior patterns.
+SQL exploratory analysis helped identify frequency and count distributions across multiple student well-being factors.
+The integrated Tableau dashboard enables comparative analysis of multiple student-related factors within a single view
 
 - ## Tools Used
 
