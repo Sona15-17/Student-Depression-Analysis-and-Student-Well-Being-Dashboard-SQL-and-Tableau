@@ -20,7 +20,9 @@ The project uses a Student Depression Dataset containing information related to 
 ## Tools & Technologies Used
 
 -SQL Server – Used for data import, cleaning, column modification, and exploratory analysis.
+
 -Tableau Desktop – Used for creating visualizations and developing the Student Count Analysis Dashboard.
+
 -SQL Queries – Used for data transformation, grouping, and distribution analysis.
 -Data Cleaning & Preparation – Used to standardize and prepare data for visualization and analysis
 
