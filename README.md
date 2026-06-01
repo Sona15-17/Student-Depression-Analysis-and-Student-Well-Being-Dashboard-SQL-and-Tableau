@@ -24,29 +24,45 @@ The project uses a Student Depression Dataset containing information related to 
 -Tableau Desktop – Used for creating visualizations and developing the Student Count Analysis Dashboard.
 
 -SQL Queries – Used for data transformation, grouping, and distribution analysis.
+
 -Data Cleaning & Preparation – Used to standardize and prepare data for visualization and analysis
+
 
 ## Steps Followed
 
 -Imported the Student Depression dataset into SQL Server.
+
 -Performed data cleaning and preprocessing by modifying Gender values and checking null/blank records.
+
 -Created the Age_Group column using SQL CASE statements for age segmentation.
+
 -Added an Index_Column for structured record identification.
+
 -Updated and standardized the Depression column values from numeric to categorical format (Yes/No).
+
 -Conducted SQL exploratory analysis using GROUP BY and distribution queries across multiple factors.
+
 -Connected the prepared SQL Server dataset to Tableau Desktop.
+
 -Built individual visualizations for Academic Pressure, Financial Stress, Study Satisfaction, Sleep Duration, and Study Hours.
+
 -Combined the visualizations into a Student Count Analysis Dashboard to generate insights into student well-being and depression-related factors.
 
 
 ## SQL Data Import & Preparation
 
 -Created the Tableau Project 1 database in SQL Server.
+
 -Imported the Student Depression Dataset into SQL Server.
+
 -Modified the Gender column to standardize values (Female → F, male → M).
+
 -Checked for null and blank values to ensure data consistency.
+
 -Created the Age_Group column using SQL CASE statements to categorize students by age.
+
 -Added an Index_Column using IDENTITY(1,1) for record indexing.
+
 -Modified and updated the Depression column by converting numeric values into categorical values (Yes / No) for better readability and analysis.
 
 
@@ -55,17 +71,29 @@ The project uses a Student Depression Dataset containing information related to 
 This section explains the analysis performed using SQL queries before moving to Tableau visualization.
 
 -Performed Gender distribution analysis using GROUP BY queries.
+
 -Analyzed Age and Age_Group distribution to understand student segmentation.
+
 -Conducted Academic Pressure distribution analysis using student counts.
+
 -Examined Study Satisfaction distribution using grouped SQL queries.
+
 -Analyzed Sleep Duration distribution and student count patterns.
+
 -Evaluated Dietary Habits distribution among students.
+
 -Studied Suicidal Thoughts distribution using grouped analysis.
+
 -Performed Study Hours distribution analysis to observe study patterns.
+
 -Examined Financial Stress distribution using student counts.
+
 -Analyzed Family History of Mental Illness distribution.
+
 -Evaluated Depression status distribution after data standardization.
+
 -Used SQL GROUP BY and aggregation queries to study frequency and count patterns across multiple student well-being factors
+
 
 ## Dashboard Snapshot start from here###############
 
