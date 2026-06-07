@@ -96,3 +96,15 @@ This project demonstrates the use of SQL Server and Tableau to analyze student d
 - Tableau Workbook (.twb / .twbx) – Contains individual visualizations and the Student Count Analysis Dashboard.
 - Dashboard Screenshots – Includes individual chart images and final dashboard preview.
 - README.md – Project documentation containing project overview, workflow, SQL analysis, Tableau visualizations, and findings.
+
+
+## Author
+
+**Sonali Sharma**
+
+Aspiring Data Analyst
+
+Skills: Power BI | SQL | MS SQL Server | Tableau
+
+- GitHub: https://github.com/Sona15-17
+- LinkedIn: http://www.linkedin.com/in/sonali-sharma-7915b3368
